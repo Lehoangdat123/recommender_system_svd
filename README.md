@@ -5,6 +5,7 @@ This project investigates a linear algebra approach, particularly svd matrix fac
 I built an iterative SVD-based low-rank approximation algorithm to perform matrix completion on a sparse user-item rating matrix. From the completed matrix, the score a user give to an unseen item can be predicted and the top 10 highest rating item can be recommended. Two data-normalization approachs are applied:
 - User-based normalization
 - Item-based normaliation
+
 The completed matrices are used to compare the rating prediction and recommendation generation ability between two methods.
 
 ## Dataset
