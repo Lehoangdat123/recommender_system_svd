@@ -2,7 +2,7 @@
 This project investigates a linear algebra approach, particularly svd matrix factorization, to recommender systems.
 
 ## Overview
-I built an iterative SVD-based low-rank approximation algorithm to perform matrix completion on a sparse user-item rating matrix. From the completed matrix, the score a user give to an unseen item can be predicted and the top 10 highest rating item can be recommended. Two data-normalization approachs are applied:
+An iterative SVD-based low-rank approximation algorithm were built to perform matrix completion on a sparse user-item rating matrix. From the completed matrix, the score a user give to an unseen item can be predicted and the top 10 highest rating item can be recommended. Two data-normalization approachs are applied:
 - User-based normalization
 - Item-based normaliation
 
