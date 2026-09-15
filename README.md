@@ -34,7 +34,7 @@ The project is implemented in a Jupyter Notebook and was developed and tested us
 ### 1. Open the notebook
 Open the notebook located in the notebooks/ folder:
 
-notebooks/svd_recommender.ipynb
+Notebooks/SVD_User_Item_Full_Pipeline.ipynb
 
 You can either download the notebook and upload it to Google Colab or open it directly from the GitHub repository using Open in Colab.
 
